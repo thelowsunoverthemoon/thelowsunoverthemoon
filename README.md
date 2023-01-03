@@ -1,16 +1,35 @@
-### Hi there 👋
+<b><h2>Webdev 🌐</h2></b>
 
-<!--
-**thelowsunoverthemoon/thelowsunoverthemoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[**omegle++**](https://github.com/thelowsunoverthemoon/omeglePlusPlus) **|** match with similar users, chat by code that runs live on a canvas
 
-Here are some ideas to get you started:
+[**Umon**](https://github.com/thelowsunoverthemoon/Umon) **|** Reddit CSS theme based on Fluent Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b><h2>C 💻</h2></b>
+
+[**ConsoleVisuals**](https://github.com/thelowsunoverthemoon/ConsoleVisuals) **|** Console Apps for various Visualizations
+
+[**mahler.c**](https://github.com/thelowsunoverthemoon/mahler.c) **|** Western music theory library in C99
+
+[**Seqpaint**](https://github.com/thelowsunoverthemoon/mahler.c) **|** Single header library to convert images to ANSI escape sequences
+
+<b><h2>Batch Script 📁</h2></b>
+
+[**turnip**](https://github.com/thelowsunoverthemoon/turnip) **|** Batch Script Game Engine with Real Graphics, Mouse/Keyboard Input, and Audio, without External Exes
+
+[**Games.bat**](https://github.com/thelowsunoverthemoon/Games.bat) **|** Rogue-likes, platformers, RPGs, simulations, puzzles in pure Batch
+
+[**Arcade.bat**](https://github.com/thelowsunoverthemoon/Arcade.bat) **|** Snake, Pacman, Flappy Bird, Google Dinosaur Game in pure Batch
+
+[**graph.bat**](https://github.com/thelowsunoverthemoon/graph.bat) **|** Fast Batch utility script to generate graphs
+
+[**Easy String Sorting**](https://www.reddit.com/r/Batch/comments/mobrqi/easy_string_sorting_in_batch/) **|** Macros to emulate string ```filter``` methods in Batch
+
+[**OOP Emulation**](https://www.reddit.com/r/Batch/comments/l2xfos/object_oriented_programming_in_batch/) **|** System for Object Oriented Programming in Batch
+
+[**Console Buttons**](https://www.reddit.com/r/Batch/comments/iwo8e8/how_to_create_clickable_buttons_on_the_console/) **|** Clickable Console buttons in Batch + Powershell
+
+[**Particle Systems**](https://www.reddit.com/r/Batch/comments/d7gtpx/simple_batch_particle_system_using_vt100/) **|** Simple Particle Systems in Batch
+
+[**Perlin Noise**](https://www.reddit.com/r/Batch/comments/hn5owg/procedurally_generated_textures_and_maps_in_batch/) **|** Implementing Perlin Noise algorithmn in Batch
+
+[**String Sub Macros**](https://www.reddit.com/r/Batch/comments/br51f1/a_small_post_about_string_substitution_in_batch/) **|** Technique using string substitution for Batch macros
