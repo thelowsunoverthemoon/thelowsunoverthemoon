@@ -32,4 +32,6 @@
 
 [**Perlin Noise**](https://www.reddit.com/r/Batch/comments/hn5owg/procedurally_generated_textures_and_maps_in_batch/) **|** Implementing Perlin Noise algorithmn in Batch
 
+[**Retro Music**](https://www.reddit.com/r/Batch/comments/av8ekx/create_retro_music_for_your_batch_game_without/) **|** Create retro music with Batch + Powershell
+
 [**String Sub Macros**](https://www.reddit.com/r/Batch/comments/br51f1/a_small_post_about_string_substitution_in_batch/) **|** Technique using string substitution for Batch macros
