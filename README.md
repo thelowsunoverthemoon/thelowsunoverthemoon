@@ -22,8 +22,6 @@
 
 [**graph.bat**](https://github.com/thelowsunoverthemoon/graph.bat) **|** Fast Batch utility script to generate graphs
 
-[**Easy String Sorting**](https://www.reddit.com/r/Batch/comments/mobrqi/easy_string_sorting_in_batch/) **|** Macros to emulate string ```filter``` methods in Batch
-
 [**OOP Emulation**](https://www.reddit.com/r/Batch/comments/l2xfos/object_oriented_programming_in_batch/) **|** System for Object Oriented Programming in Batch
 
 [**Console Buttons**](https://www.reddit.com/r/Batch/comments/iwo8e8/how_to_create_clickable_buttons_on_the_console/) **|** Clickable Console buttons in Batch + Powershell
@@ -35,3 +33,5 @@
 [**Retro Music**](https://www.reddit.com/r/Batch/comments/av8ekx/create_retro_music_for_your_batch_game_without/) **|** Create retro music with Batch + Powershell
 
 [**String Sub Macros**](https://www.reddit.com/r/Batch/comments/br51f1/a_small_post_about_string_substitution_in_batch/) **|** Technique using string substitution for Batch macros
+
+[**Easy String Sorting**](https://www.reddit.com/r/Batch/comments/mobrqi/easy_string_sorting_in_batch/) **|** Macros to emulate string ```filter``` methods in Batch
