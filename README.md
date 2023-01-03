@@ -10,7 +10,7 @@
 
 [**mahler.c**](https://github.com/thelowsunoverthemoon/mahler.c) **|** Western music theory library in C99
 
-[**Seqpaint**](https://github.com/thelowsunoverthemoon/mahler.c) **|** Single header library to convert images to ANSI escape sequences
+[**Seqpaint**](https://github.com/thelowsunoverthemoon/Seqpaint) **|** Single header library to convert images to ANSI escape sequences
 
 <b><h2>Batch Script 📁</h2></b>
 
