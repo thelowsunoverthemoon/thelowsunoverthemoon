@@ -2,31 +2,33 @@
 
 [**omegle++**](https://github.com/thelowsunoverthemoon/omeglePlusPlus) **|** Match with similar users, chat by code that runs live on a canvas
 
-[**Umon**](https://github.com/thelowsunoverthemoon/Umon) **|** Reddit CSS theme based on Fluent Design
 
-<b><h2>C 💻</h2></b>
+<b><h2>Visuals 💻</h2></b>
 
 [**ConsoleVisuals**](https://github.com/thelowsunoverthemoon/ConsoleVisuals) **|** Console Apps for various Visualizations
 
+<b><h2>Libraries 📖</h2></b>
+
 [**mahler.c**](https://github.com/thelowsunoverthemoon/mahler.c) **|** Western music theory library in C99
 
-[**Seqpaint**](https://github.com/thelowsunoverthemoon/Seqpaint) **|** Single header library to convert images to ANSI escape sequences
+[**SeqPaint**](https://github.com/thelowsunoverthemoon/Seqpaint) **|** Single header library to convert images to ANSI escape sequences
 
+[**OOP Emulation**](https://www.reddit.com/r/Batch/comments/l2xfos/object_oriented_programming_in_batch/) **|** System for Object Oriented Programming in Batch
 
-<b><h2>Batch Scripts 📁</h2></b>
+<b><h2>Games 📁</h2></b>
+
 [**turnip**](https://github.com/thelowsunoverthemoon/turnip) **|** Batch Script Game Engine with Real Graphics, Mouse/Keyboard Input, and Audio, without External Exes
 
 [**Games.bat**](https://github.com/thelowsunoverthemoon/Games.bat) **|** Rogue-likes, platformers, RPGs, simulations, puzzles in pure Batch
 
 [**Arcade.bat**](https://github.com/thelowsunoverthemoon/Arcade.bat) **|** Snake, Pacman, Flappy Bird, Google Dinosaur Game in pure Batch
 
-
-[**OOP Emulation**](https://www.reddit.com/r/Batch/comments/l2xfos/object_oriented_programming_in_batch/) **|** System for Object Oriented Programming in Batch
-
 <details>
-  <summary><b><h2>Batch Snippets ✂ (click to expand)</h2></b></summary>
+  <summary><b><h2>Snippets ✂ (click to expand)</h2></b></summary>
 
-
+  
+  [**Umon**](https://github.com/thelowsunoverthemoon/Umon) **|** Reddit CSS theme based on Fluent Design
+  
   [**graph.bat**](https://github.com/thelowsunoverthemoon/graph.bat) **|** Fast Batch utility script to generate graphs
 
 
