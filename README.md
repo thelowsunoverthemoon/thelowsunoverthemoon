@@ -13,7 +13,6 @@
 
 [**SeqPaint**](https://github.com/thelowsunoverthemoon/Seqpaint) **|** Single header library to convert images to ANSI escape sequences
 
-[**OOP Emulation**](https://www.reddit.com/r/Batch/comments/l2xfos/object_oriented_programming_in_batch/) **|** System for Object Oriented Programming in Batch
 
 <b><h2>Games 📁</h2></b>
 
@@ -26,6 +25,7 @@
 <details>
   <summary><b><h2>Snippets ✂ (click to expand)</h2></b></summary>
 
+  [**OOP Emulation**](https://www.reddit.com/r/Batch/comments/l2xfos/object_oriented_programming_in_batch/) **|** System for Object Oriented Programming in Batch
   
   [**Umon**](https://github.com/thelowsunoverthemoon/Umon) **|** Reddit CSS theme based on Fluent Design
   
