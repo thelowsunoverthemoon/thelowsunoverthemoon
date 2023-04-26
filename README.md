@@ -1,9 +1,9 @@
 
 <b><h2>Batch Scripts</h2></b>
 
-[**turnip**](https://github.com/thelowsunoverthemoon/turnip) **|** Batch Script Game Engine with Real Graphics, Mouse/Keyboard Input, and Audio
+[**turnip**](https://github.com/thelowsunoverthemoon/turnip) **|** Batch Script Game Engine with Real Graphics, Mouse/Keyboard Input, and Audio via HTA files
 
-[**parsnip**](https://github.com/thelowsunoverthemoon/parsnip) **|** Lightweight Audio Library in Batch Script
+[**parsnip**](https://github.com/thelowsunoverthemoon/parsnip) **|** Lightweight Audio Library in Batch Script via WSF files
 
 [**graph.bat**](https://github.com/thelowsunoverthemoon/graph.bat) **|** Fast Batch utility script to generate graphs
 
