@@ -5,6 +5,8 @@
 
 [**parsnip**](https://github.com/thelowsunoverthemoon/parsnip) **|** Lightweight Audio Library in Batch Script via WSF files
 
+[**radish**](https://github.com/thelowsunoverthemoon/radish) **|** Native Mouse and Keyboard Input in Batch Script using C# via Powershell's ```Add-Type```
+
 [**graph.bat**](https://github.com/thelowsunoverthemoon/graph.bat) **|** Fast Batch utility script to generate graphs
 
 <b><h2>Batch Games</h2></b>
