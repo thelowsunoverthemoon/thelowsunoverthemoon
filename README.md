@@ -1,3 +1,4 @@
+<img src="https://imgur.com/oQzQupL.gif" align="right"/>
 <b><h2>Batch Tools</h2></b>
 
 [**turnip**](https://github.com/thelowsunoverthemoon/turnip) **|** Batch Script Game Engine with Real Graphics, Mouse/Keyboard Input, and Audio
