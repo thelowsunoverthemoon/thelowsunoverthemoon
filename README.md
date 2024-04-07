@@ -5,7 +5,7 @@
 
 [**parsnip**](https://github.com/thelowsunoverthemoon/parsnip) **|** Lightweight Audio Library in Batch Script
 
-[**radish**](https://github.com/thelowsunoverthemoon/radish) **|** Native Mouse and Keyboard Input in Batch Script
+[**radish**](https://github.com/thelowsunoverthemoon/radish) **|** CMD extension for Mouse / Keyboard Input and Audio
 
 <b><h2>Batch Scripts</h2></b>
 
