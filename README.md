@@ -9,6 +9,8 @@
 
 [**daikon**](https://github.com/thelowsunoverthemoon/daikon) **|** Optimized matrix operations via generated expressions in Batch
 
+[**tsprite**](https://github.com/thelowsunoverthemoon/tsprite) **|** Convert Sprites to Windows escape sequences, optimized for Conhost games
+
 <b><h2>Batch Scripts</h2></b>
 
 [**Games.bat**](https://github.com/thelowsunoverthemoon/Games.bat) **|** Rogue-likes, platformers, RPGs, simulations, puzzles in pure Batch
