@@ -19,4 +19,6 @@
 
 [**graph.bat**](https://github.com/thelowsunoverthemoon/graph.bat) **|** Fast Batch utility script to generate graphs
 
+[**parallel.bat**](https://github.com/thelowsunoverthemoon/parallel.bat) **|** Parallel Computations in Batch
+
 
