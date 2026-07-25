@@ -15,7 +15,7 @@
 
 [**Games.bat**](https://github.com/thelowsunoverthemoon/Games.bat) **|** Rogue-likes, platformers, RPGs, simulations, puzzles in pure Batch
 
-[**Arcade.bat**](https://github.com/thelowsunoverthemoon/Arcade.bat) **|** Snake, Pacman, Flappy Bird, Google Dinosaur Game in pure Batch
+[**Arcade.bat**](https://github.com/thelowsunoverthemoon/Arcade.bat) **|** Snake, Pacman, Flappy Bird, Google Dinosaur Game, Plants vs Zombies in pure Batch
 
 [**graph.bat**](https://github.com/thelowsunoverthemoon/graph.bat) **|** Fast Batch utility script to generate graphs
 
