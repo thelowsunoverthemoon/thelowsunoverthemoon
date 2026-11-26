@@ -1,6 +1,4 @@
-<b><h2>Batch Tutorials</h2></b>
 
-[**Batch Articles**](https://github.com/thelowsunoverthemoon/BatchArticles) **|** Tutorials for Batch Script
 
 <b><h2>Batch Tools</h2></b>
 
@@ -24,4 +22,7 @@
 
 [**loom**](https://github.com/thelowsunoverthemoon/loom) **|** Parallel Computing Framework in Batch
 
+<b><h2>Batch Tutorials</h2></b>
+
+[**Batch Articles**](https://github.com/thelowsunoverthemoon/BatchArticles) **|** Tutorials for Batch Script
 
