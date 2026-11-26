@@ -1,4 +1,4 @@
-<b><h2>Tutorials</h2></b>
+<b><h2>Batch Tutorials</h2></b>
 
 [**Batch Articles**](https://github.com/thelowsunoverthemoon/BatchArticles) **|** Tutorials for Batch Script
 
